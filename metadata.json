@@ -1,0 +1,6 @@
+{
+  "name": "Reshmatex — Liquid Light",
+  "description": "A tactile, spatial experiment in high-end materials and creative web engineering with real-time WebGL pearlescent glass refraction and generative ambient sound.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
